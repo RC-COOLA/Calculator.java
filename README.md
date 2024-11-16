@@ -76,7 +76,7 @@ public class Calculator {
                 }
             } else {
                 System.out.println("Error: Invalid input. Please enter a valid number.");
-                scanner.next(); // Consume the invalid input
+                scanner.next();
             }
         }
 
